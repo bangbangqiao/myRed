@@ -1,0 +1,69 @@
+{
+    "course": [
+      {
+        "id": 1000,
+        "course_name": "马连白米且",
+        "autor": "袁明",
+        "college": "金并即总变史",
+        "category_Id": 2
+      },
+      {
+        "id": 1001,
+        "course_name": "公拉农题队始果动",
+        "autor": "高丽",
+        "college": "先了队叫及便",
+        "category_Id": 2
+      }
+    ],
+   "PersonInfo":[{
+        "id": 1,
+        "account":"000001",
+        "name":"张三",
+        "age":18,
+        "state":false,
+        "times":"2022/7/29"
+    },
+        {
+            "id": 2,
+            "account":"000002",
+            "name":"张三",
+            "age":18,
+            "state":false,
+            "times":"2022/7/29"
+        },
+        {
+            "id": 3,
+            "account":"000003",
+            "name":"张三",
+            "age":18,
+            "state":false,
+            "times":"2022/7/29"
+        },
+        {
+            "id": 4,
+            "account":"000004",
+            "name":"张三",
+            "age":18,
+            "state":false,
+            "times":"2022/7/29"
+        },
+        {
+            "id": 5,
+            "account":"000004",
+            "name":"张三",
+            "age":18,
+            "state":false,
+            "times":"2022/7/29"
+        },
+        {
+            "id": 6,
+            "account":"000004",
+            "name":"张三",
+            "age":18,
+            "state":false,
+            "times":"2022/7/29"
+        }
+    
+]
+    
+  }
